@@ -1,0 +1,642 @@
+
+
+
+
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="http://lucy.allakhazam.com/lucy.css"> 
+<title>Item Details for Cloth Shawl</title>
+</head>
+<body>
+<table width=100% cellpadding=0 cellspacing=0 border=0>
+<tr><td width=268> <a href="/"> <img src="/gfx/lucy_heading.gif?1" height="48" width="268" alt="Lucy" border="0"> </a> 
+</td><td align="center">
+Welcome bchilton
+</td></tr></table>
+<table cellpadding="0" cellspacing="0" class="title">
+<tr>
+<td class="title" width="100%" height="15"></td>
+</tr>
+</table>
+<table cellspacing="10" cellpadding="0" width="100%">
+<tr>
+<td valign="top" width="25%">
+
+<table cellspacing="0" cellpadding="5" class="sidebar" width="100%">
+<tr><td class="sidebar">Spell Source</td></tr>
+<tr><td><table width="100%"><tr><td width="50%" align="center"><b>Live Server</b></td>
+                   <td width="50%" align="center"><a href="/itemraw.html?id=1005&source=Test">Test Server</a></td>
+               </tr></table>
+</td></tr>
+<tr><td class="sidebar">Search</td></tr>
+<tr><td align="right">
+<form method="get" action="/spelllist.html">
+  Spell Search:&nbsp;<input type="text" name="searchtext" size="18">&nbsp;
+</form>
+</td></tr>
+<tr><td align="right">
+<form method="get" action="/itemlist.html">
+  Item Search:&nbsp;<input type="text" name="searchtext" size="18">&nbsp;<br>
+  
+ <center><a href="/advitemsearch.html"><span style="font-size:12px">Advanced Item Search</span></a></center>
+</form>
+</td></tr>
+<tr><td class="sidebar">Spell Changes</td></tr>
+<tr><td align="center"><table width="100%">
+  <tr><td><b>11-02 21:40</b></td><td><a href="newspells.html?source=Test&date=2006-11-02 21:40:19">1081 changes on Test</a></tr>
+  <tr><td><b>10-30 20:24</b></td><td><a href="newspells.html?source=Live&date=2006-10-30 20:24:28">954 changes on Live</a></tr>
+  <tr><td><b>10-05 07:37</b></td><td><a href="newspells.html?source=Live&date=2006-10-05 07:37:15">44262 changes on Live</a></tr>
+  <tr><td><b>10-03 01:02</b></td><td><a href="newspells.html?source=Test&date=2006-10-03 01:02:06">31309 changes on Test</a></tr>
+  <tr><td><b>10-02 22:39</b></td><td><a href="newspells.html?source=Live&date=2006-10-02 22:39:01">43833 changes on Live</a></tr>
+<tr><td align="center" colspan="2">Changes: <a href="newspells_summary.html?source=Live">Live</a> | 
+        <a href="newspells_summary.html?source=Test">Test</a> | 
+        <a href="newspells_summary.html">All</a>
+      </td></tr>
+</table>
+</td></tr>
+<tr><td class="sidebar">Other Areas</td></tr>
+<tr><td align="center"><table width="90%">
+<tr>
+    <td><a href="downloads.html">Downloads</a></td>
+    <td><a href="/booklist.html">Books</a>: <a href="/booklistf.html">DB</a> - <a href="/booklistnf.html">Not</a></td>
+</tr>
+<tr>
+    <td><a href="/newitems.html?type=new">Newest Items</a></td>
+    <td><a href="/newitems.html?type=updated">Updated Items</a></td>
+</tr>
+<tr>
+    <td><a href="/itemdbstats.html">Item DB Stats</a></td>
+    <td><a href="dmgbonus.html">Damage Bonus</a></td>
+</tr>
+</table></td></tr>
+<tr><td class="sidebar">Spell Lists</td></tr>
+<tr><td align="center" width="100%">
+  <table width="80%">
+    <tr><td width="50%"><a href="spelllist.html?classes=BRD&source=Live">Bard</a></td>
+	<td width="50%"><a href="spelllist.html?classes=BST&source=Live">Beastlord</a></td></tr>
+    <tr><td width="50%"><a href="spelllist.html?classes=BER&source=Live">Berserker</a></td>
+        <td width="50%"><a href="spelllist.html?classes=CLR&source=Live">Cleric</a></td></tr>
+    <tr><td width="50%"><a href="spelllist.html?classes=DRU&source=Live">Druid</a></td>
+        <td width="50%"><a href="spelllist.html?classes=ENC&source=Live">Enchanter</a></td></tr>
+    <tr><td width="50%"><a href="spelllist.html?classes=MAG&source=Live">Magician</a></td>
+        <td width="50%"><a href="spelllist.html?classes=MNK&source=Live">Monk</a></td><tr>
+    <tr><td width="50%"><a href="spelllist.html?classes=NEC&source=Live">Necromancer</a></td>
+        <td width="50%"><a href="spelllist.html?classes=PAL&source=Live">Paladin</a></td></tr>
+    <tr><td width="50%"><a href="spelllist.html?classes=RNG&source=Live">Ranger</a></td>
+        <td width="50%"><a href="spelllist.html?classes=ROG&source=Live">Rogue</a></td></tr>
+    <tr><td width="50%"><a href="spelllist.html?classes=SHD&source=Live">SK</a></td>
+        <td width="50%"><a href="spelllist.html?classes=SHM&source=Live">Shaman</a></td></tr>
+    <tr><td width="50%"><a href="spelllist.html?classes=WIZ&source=Live">Wizard</a></td>
+        <td width="50%"><a href="spelllist.html?classes=WAR&source=Live">Warrior</a></td></tr>
+    <tr><td colspan="2" align="center"><a href="spelllist.html?classes=NPC&source=Live">NPC</a></td></tr>
+  </table>
+</table>
+
+
+</td>
+<td valign="top" width="75%">
+
+<table cellspacing="0" cellpadding="0" class="spellview" width="100%">
+  <tr><td><table cellspacing="0" cellpadding="5" width="100%"><tr>
+      <td class="spellview" valign="center">
+      
+<img align="absmiddle" src="http://everquest.allakhazam.com/pgfx/item_665.png" border="0" height="40" width="40">	
+&nbsp; Cloth Shawl
+      <td class="spellview" align="right"><a href="item.html?id=1005">Detail</a> | <a href="itemhistory.html?id=1005">History</a> | Raw
+    </td></tr>
+  </table
+  </td></tr>
+  <tr><td>&nbsp;</td></tr>
+
+
+  <tr><td align="center"><table width="95%" class="spellview">
+  <tr>
+    <td width="20%" class="spelllabel">AkzID</td>
+    <td width="30%">995</td>
+    <td width="20%" class="spelllabel">aagi</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">ac</td>
+    <td width="30%">1</td>
+    <td width="20%" class="spelllabel">accuracy</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">acha</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">adex</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">aint</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">artifact</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">asta</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">astr</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">attack</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">attuneable</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">aug1type</td>
+    <td width="30%">7</td>
+    <td width="20%" class="spelllabel">aug1unk</td>
+    <td width="30%">1</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">aug2type</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">aug2unk</td>
+    <td width="30%">1</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">aug3type</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">aug3unk</td>
+    <td width="30%">1</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">aug4type</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">aug4unk</td>
+    <td width="30%">1</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">aug5type</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">aug5unk</td>
+    <td width="30%">1</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">augdistill</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">augres</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">augvalue</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">avoidance</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">awis</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">bagsize</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">bagslots</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">bagtype</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">bagwr</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">banedmgamnt2</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">banedmgamt</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">banedmgbody</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">banedmgrace</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">bardtype</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">bardvalue</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">benefit</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">booktype</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">bookunk</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">casttime</td>
+    <td width="30%">-1</td>
+    <td width="20%" class="spelllabel">charmfile</td>
+    <td width="30%"></td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">classes</td>
+    <td width="30%">65535</td>
+    <td width="20%" class="spelllabel">color</td>
+    <td width="30%">4278190080</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">combateffects</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">cost</td>
+    <td width="30%">180</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">cr</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">crr</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">damage</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">damageshield</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">deity</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">delay</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">dmgplusamnt</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">dmgplustype</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">dotshielding</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">dr</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">effecttype</td>
+    <td width="30%"></td>
+    <td width="20%" class="spelllabel">effecttype0</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">effecttype1</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">effecttype2</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">effecttype3</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">effecttype4</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">elemdmgamt</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">elemdmgtype</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">endur</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">endurregen</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">evoid</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">evolvl</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">evomax</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">factionamt1</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">factionamt2</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">factionamt3</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">factionamt4</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">factionmod1</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">factionmod2</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">factionmod3</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">factionmod4</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">filename</td>
+    <td width="30%"></td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">focusid</td>
+    <td width="30%"></td>
+    <td width="20%" class="spelllabel">fr</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">fvnodrop</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">guildfavor</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">haste</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">hp</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">icon</td>
+    <td width="30%">665</td>
+    <td width="20%" class="spelllabel">id</td>
+    <td width="30%">1005</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">idfile</td>
+    <td width="30%">IT63</td>
+    <td width="20%" class="spelllabel">itemclass</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">itemtype</td>
+    <td width="30%">10</td>
+    <td width="20%" class="spelllabel">ldonprice</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">ldonsold</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">ldontheme</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">level</td>
+    <td width="30%"></td>
+    <td width="20%" class="spelllabel">level0</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">level1</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">level2</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">level3</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">level4</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">light</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">lore</td>
+    <td width="30%">Cloth Shawl</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">loreitem</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">magic</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">mana</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">manaregen</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">material</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">maxcharges</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">mr</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">name</td>
+    <td width="30%">Cloth Shawl</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">nodrop</td>
+    <td width="30%">1</td>
+    <td width="20%" class="spelllabel">nopet</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">norent</td>
+    <td width="30%">127</td>
+    <td width="20%" class="spelllabel">notransfer</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">pendinglore</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">pointtype</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">potionbelt</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">potionbeltslots</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">pr</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">procratemod</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">questitem</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">races</td>
+    <td width="30%">62335</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">range</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">recastdelay</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">recasttype</td>
+    <td width="30%">-1</td>
+    <td width="20%" class="spelllabel">reclevel</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">recskill</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">regen</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">reqlevel</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">shielding</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">size</td>
+    <td width="30%">1</td>
+    <td width="20%" class="spelllabel">skillmodtype</td>
+    <td width="30%">127</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">skillmodvalue</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">slots</td>
+    <td width="30%">64</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">spellid</td>
+    <td width="30%"></td>
+    <td width="20%" class="spelllabel">spellid0</td>
+    <td width="30%">-1</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">spellid1</td>
+    <td width="30%">-1</td>
+    <td width="20%" class="spelllabel">spellid2</td>
+    <td width="30%">-1</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">spellid3</td>
+    <td width="30%">-1</td>
+    <td width="20%" class="spelllabel">spellid4</td>
+    <td width="30%">-1</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">spellshield</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">stackable</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">stacksize</td>
+    <td width="30%">20</td>
+    <td width="20%" class="spelllabel">strikethrough</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">stunresist</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">summoned</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">time2</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">tradeskills</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">tribute</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">unknown012</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">unknown013</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">unknown033</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">unknown054</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">unknown058</td>
+    <td width="30%">1</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">unknown059</td>
+    <td width="30%">-1</td>
+    <td width="20%" class="spelllabel">unknown061</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">unknown072</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">unknown123</td>
+    <td width="30%">-1</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">unknown124</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">unknown127</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">unknown134</td>
+    <td width="30%">00000000000000000000000000000000000000</td>
+    <td width="20%" class="spelllabel">unknown137</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">unknown142</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">unknown147</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">unknown152</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">unknown157</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">unknown158</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">unknown160</td>
+    <td width="30%">70</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">unknown161</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">unknown162</td>
+    <td width="30%">0</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">unknown164</td>
+    <td width="30%">0</td>
+    <td width="20%" class="spelllabel">updated</td>
+    <td width="30%">2006-12-03 12:23:46</td>
+  </tr>
+  <tr>
+    <td width="20%" class="spelllabel">weight</td>
+    <td width="30%">2</td>
+    <td width="20%" class="spelllabel"></td>
+    <td width="30%"></td>
+  </tr>
+  </table></td></tr>
+<tr><td>&nbsp;</td></tr>
+
+</table>
+</td>
+</tr>
+</table>
+<center><font size="-1">Lucy is provided by <a href="http://everquest.allakhazam.com/">Allakhazam.com</a></font></center>
+</body>
+</html>
+
+
+<!-- elapsed time: 0.033 -->
+ -->

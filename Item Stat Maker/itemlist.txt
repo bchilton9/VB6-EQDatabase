@@ -1,0 +1,5 @@
+1001,"Cloth Cap",http://lucy.allakhazam.com/item.html?id=1001
+1002,"Cloth Veil",http://lucy.allakhazam.com/item.html?id=1002
+1003,"Cloth Choker",http://lucy.allakhazam.com/item.html?id=1003
+1004,"Cloth Shirt",http://lucy.allakhazam.com/item.html?id=1004
+1005,"Cloth Shawl",http://lucy.allakhazam.com/item.html?id=1005
